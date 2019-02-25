@@ -1,3 +1,7 @@
+### Live Demo
+http://jessicaweatherapp.herokuapp.com/
+
+![My image](http://g.recordit.co/L4asN4ScS8.gif)
 
 ## Available Scripts
 
