@@ -1,7 +1,7 @@
 ### Live Demo
 http://jessicaweatherapp.herokuapp.com/
 
-![My image](http://g.recordit.co/L4asN4ScS8.gif)
+![My image](https://github.com/giocare/Weather-App/blob/master/screenshot.png)
 
 ## Available Scripts
 
